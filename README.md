@@ -1,2 +1,5 @@
 # git_test
-#My primer repo de GITHUBBB
+primer repo de GITHUBBB
+Hello Odin !
+
+
